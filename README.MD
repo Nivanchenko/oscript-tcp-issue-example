@@ -70,7 +70,7 @@ Sec-WebSocket-Accept: hgGtYQoki4w7EXHvdkxAVu61+PI=
 
 1. Запускаю минисервер
 ~~~
-oscript minisrver.os
+oscript miniserver.os
 ~~~
 
 2. Открываю в браузере ``` socket.html ```. Жму кнопку ``` Click ```
